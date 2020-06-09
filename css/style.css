@@ -197,6 +197,11 @@ ol.listDecimalRow.badge>li:before {background: #4996ad;}
 .logo {display: flex;}
 .logo img {max-height: 30px;}
 
+.bg_img>.uk-cover-background {
+  background-position-x: right;
+  background-position-y: 30%;
+}
+
 footer, footer a {color: white !important;}
 
 /* Uikit Style
