@@ -16,7 +16,7 @@ h4, .fontSizeH4 {font-size: 1.3125rem !important;} /* 21px */
 h5, .fontSizeH5 {font-size: 1.125rem !important;} /* 18px */
 h6, .fontSizeH6 {font-size: 1rem !important;} /* 16px */
 h1, h2, h3, h4, h5, h6 {line-height: 1.2 !important;}
-footer, small {font-size: 0.875rem !important;} /* 14px */
+footer, small, .fontSizeS, .fontSizeS * {font-size: 0.875rem !important;} /* 14px */
 p:not([class*=bg_]), h1:not([class*=bg_]), h2:not([class*=bg_]), h3:not([class*=bg_]), h4:not([class*=bg_]), h5:not([class*=bg_]), h6:not([class*=bg_]) {line-height: 1.5;}
 q {font-style: normal; padding: 0 5px;}
 /* End Font
